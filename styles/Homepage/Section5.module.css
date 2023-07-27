@@ -20,7 +20,11 @@
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
+    width: 100%;
     /* padding: 20px; */
+}
+.imageContainer{
+    width: 100%;
 }
 
 
@@ -28,6 +32,14 @@
     .section5Container {
         padding-left: 120px;
         padding-right: 120px;
+    }
+    .imageContainer{
+        width: 80%;
+    }
+
+    .imgText {
+        width: 80%;
+        /* padding: 20px; */
     }
 }
 

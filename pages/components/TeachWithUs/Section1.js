@@ -3,7 +3,7 @@ import styles from '../../../styles/TeachWithUs/Section1.module.css';
 export default function Section1() {
     return (
         <>
-            <div className="px-3">
+            <div className="px-sm-3">
                 <div className={`row ${styles.section1Container}`} style={{ paddingTop: '180px', paddingBottom: '100px', background: '#F6F5EE' }}>
                     <div className="col-xl-6">
                         <div className={styles.leftSideContainer}>
@@ -19,7 +19,8 @@ export default function Section1() {
                                 <b>Download the App</b>
                                 <br />
                                 <img src="https://images.weserv.nl/?url=https://s3.ap-south-1.amazonaws.com/cdn.clapingo.com/clapingoWeb/gplay.png&w=135&h=40&output=webp" alt="#ImgNotFound" />
-                                <img src="https://images.weserv.nl/?url=https://s3.ap-south-1.amazonaws.com/cdn.clapingo.com/clapingoWeb/apple.png&w=135&h=40&output=webp" alt="#ImgNotFound" className="mx-2" />
+                                &ensp;
+                                <img src="https://images.weserv.nl/?url=https://s3.ap-south-1.amazonaws.com/cdn.clapingo.com/clapingoWeb/apple.png&w=135&h=40&output=webp" alt="#ImgNotFound" />
                             </p>
                         </div>
                     </div>
