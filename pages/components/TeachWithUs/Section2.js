@@ -2,7 +2,7 @@ import styles from '../../../styles/TeachWithUs/Section1.module.css';
 
 export default function Section2() {
     return (
-        <>
+        <div className='mb-5'>
             <div className="p-xl-5">
                 <div className={`row ${styles.section1Container}`}>
                     <div className="col-xxl-5">
@@ -57,6 +57,6 @@ export default function Section2() {
                     </div>
                 </div>
             </div>
-        </>
+        </div>
     )
 }

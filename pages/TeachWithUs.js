@@ -5,7 +5,7 @@ import Section2 from "./components/TeachWithUs/Section2";
 
 export default function TeachWithUs() {
     return (
-        <div className="mb-5">
+        <>
             <Header selectedMenu="TeachWithUs" />
             <Section1 />
             <div className="text-center p-5">
@@ -13,6 +13,6 @@ export default function TeachWithUs() {
             </div>
             <Section2 />
             <Footer />
-        </div>
+        </>
     )
 }
