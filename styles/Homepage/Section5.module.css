@@ -1,0 +1,39 @@
+.section5Container {
+    background: #F8FAFC;
+}
+
+.mainHeading {
+    letter-spacing: -.0175em;
+    line-height: 55px;
+    font-weight: 450;
+    color: black;
+}
+
+.imgContainer {
+    position: relative;
+    text-align: center;
+    color: black;
+}
+
+.imgText {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    /* padding: 20px; */
+}
+
+
+@media (min-width: 992px) {
+    .section5Container {
+        padding-left: 120px;
+        padding-right: 120px;
+    }
+}
+
+@media (max-width: 991px) {
+    .section5Container {
+        padding-left: 50px;
+        padding-right: 50px;
+    }
+}

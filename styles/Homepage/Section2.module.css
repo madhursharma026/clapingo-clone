@@ -1,0 +1,51 @@
+
+
+.mainHeading {
+    letter-spacing: -.0175em;
+    line-height: 55px;
+    font-weight: 350;
+}
+
+.mainHeading2 {
+    letter-spacing: -.0175em;
+    line-height: 55px;
+    font-weight: 650;
+}
+
+.btnColorOutline {
+    border: 1px solid #24A791;
+    background: #24A791;
+    color: white;
+    font-weight: 600;
+    box-shadow: 2px 2px 10px 0px #24A791;
+}
+
+.btnColorOutline:hover {
+    border: 1px solid #166457;
+    background: #166457;
+    color: white;
+    font-weight: 600;
+}
+
+@media (min-width: 992px) {
+    .leftSideContainer {
+        width: 484px;
+    }
+    .rightSideContainer{
+        margin-left: 100px;
+    }
+    .section2Container {
+        padding-left: 120px;
+        padding-right: 120px;
+    }
+}
+
+@media (max-width: 991px) {
+    .leftSideContainer {
+        width: 100%;
+    }
+    .section2Container {
+        padding-left: 50px;
+        padding-right: 50px;
+    }
+}

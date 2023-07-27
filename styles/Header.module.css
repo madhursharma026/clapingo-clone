@@ -1,0 +1,98 @@
+.headerNavbarContainer {
+    background: #FCFBF4;
+    height: 90px;
+}
+/* .navItems {
+    margin-left: 10px;
+    margin-right: 10px;
+} */
+
+.websiteMenu {
+    font-size: 0.9rem;
+    line-height: 2rem;
+    font-weight: 600;
+    color: #000;
+}
+
+.websiteLogo {
+    font-size: 1.5rem;
+    line-height: 2rem;
+    font-weight: 700;
+    color: #24A791;
+}
+
+.btnColorOutline {
+    border: 1px solid #24A791;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    color: #24A791;
+    font-weight: 600;
+}
+
+.btnColorOutline:hover {
+    border: 1px solid #24A791;
+    background: #D3EDE9;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    color: #24A791;
+    font-weight: 600;
+}
+
+.btnColorOutline2 {
+    border: 1px solid #24A791;
+    background: #24A791;
+    color: white;
+    font-weight: 600;
+    padding: 8px;
+}
+
+.btnColorOutline2:hover {
+    border: 1px solid #166457;
+    background: #166457;
+    color: white;
+    font-weight: 600;
+    padding: 8px;
+}
+
+/* @media (max-width: 1200px) {
+    .navItems {
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+} */
+
+/* @media (min-width: 991px) {
+    .headerNavbar {
+        margin-left: -10%;
+        margin-right: -10%;
+    }
+} */
+
+@media (min-width: 1200px) {
+    .headerNavbar {
+        padding-left: 120px;
+        padding-right: 120px;
+    }
+    .navItems {
+        margin-left: 0.3px;
+        margin-right: 0.3px;
+    }
+}
+
+@media (min-width: 1380px) {
+    .navItems {
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+}
+
+@media (max-width: 1199px) {
+    .headerNavbar {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .navItems {
+        margin-left: 0.2px;
+        margin-right: 0.2px;
+    }
+}

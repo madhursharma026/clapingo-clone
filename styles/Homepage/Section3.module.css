@@ -1,0 +1,58 @@
+.section3Container {
+    background: linear-gradient(48.62deg, #8b997d -4.59%, #ccdcbc 47.23%, #d1e1c1 63.38%, #d1e1c1 101.51%)
+}
+
+.mainHeading {
+    letter-spacing: -.0175em;
+    line-height: 55px;
+    font-weight: 450;
+    color: black;
+}
+
+.liStyle{
+    font-size: 1.5rem;
+    line-height: 1.75rem;
+    font-weight: 450;
+    list-style-type: none;
+}
+
+.btnColorOutline {
+    border: 1px solid #24A791;
+    background: #24A791;
+    color: white;
+    font-weight: 600;
+    box-shadow: 2px 2px 10px 0px #24A791;
+}
+
+.btnColorOutline:hover {
+    border: 1px solid #166457;
+    background: #166457;
+    color: white;
+    font-weight: 600;
+}
+
+@media (min-width: 992px) {
+    .leftSideContainer {
+        width: 484px;
+    }
+
+    .section3Container {
+        padding-left: 120px;
+        padding-right: 120px;
+    }
+}
+
+@media (max-width: 991px) {
+    .leftSideContainer {
+        width: 100%;
+    }
+
+    .section3Container {
+        padding-left: 50px;
+        padding-right: 50px;
+    }
+
+    .rightSideContainer{
+        display: none;
+    }
+}

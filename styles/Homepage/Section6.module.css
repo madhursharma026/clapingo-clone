@@ -1,0 +1,31 @@
+.section6Container{
+    background: #FAFAFA;
+}
+
+.mainHeading {
+    letter-spacing: -.0175em;
+    line-height: 55px;
+    font-weight: 350;
+}
+
+.mainHeading2 {
+    letter-spacing: -.0175em;
+    line-height: 55px;
+    font-weight: 650;
+}
+@media (min-width: 992px) {
+    .section6Container {
+        padding-left: 120px;
+        padding-right: 120px;
+    }
+}
+
+@media (max-width: 991px) {
+    .section6Container {
+        padding-left: 50px;
+        padding-right: 50px;
+    }
+    .rightSideContainer{
+        display: none;
+    }
+}

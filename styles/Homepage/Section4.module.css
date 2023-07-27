@@ -1,0 +1,43 @@
+.section4Container {
+    background: #F1F5FC
+}
+
+.mainHeading {
+    letter-spacing: -.0175em;
+    line-height: 55px;
+    font-weight: 450;
+    color: black;
+}
+
+.cardStyle{
+    box-shadow: 0px 20px 50px 0px rgba(36,167,145,.46);
+}
+
+.btnColorOutline {
+    border: 1px solid #24A791;
+    background: #24A791;
+    color: white;
+    font-weight: 600;
+}
+
+.btnColorOutline:hover {
+    border: 1px solid #166457;
+    background: #166457;
+    color: white;
+    font-weight: 600;
+}
+
+
+@media (min-width: 992px) {
+    .section4Container {
+        padding-left: 120px;
+        padding-right: 120px;
+    }
+}
+
+@media (max-width: 991px) {
+    .section4Container {
+        padding-left: 50px;
+        padding-right: 50px;
+    }
+}
