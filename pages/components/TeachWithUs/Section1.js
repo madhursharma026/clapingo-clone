@@ -7,7 +7,7 @@ export default function Section1() {
                 <div className={`row ${styles.section1Container}`} style={{ paddingTop: '180px', paddingBottom: '100px', background: '#F6F5EE' }}>
                     <div className="col-xl-6">
                         <div className={styles.leftSideContainer}>
-                            <h1 className={styles.mainHeading}><b>Become a Clapingo <br /> <span style={{ color: '#50B9A7' }}>Instructor</span></b></h1>
+                            <h1 className={styles.mainHeading}><b>Become a EnglishN <br /> <span style={{ color: '#50B9A7' }}>Instructor</span></b></h1>
                             <img src="https://clapingo.com/_next/static/media/Girl.1279abb7.svg" alt="#ImgNotFound" />
                         </div>
                     </div>

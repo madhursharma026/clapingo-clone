@@ -14,7 +14,7 @@ export default function Section5() {
                             <img src="https://clapingo.com/_next/static/media/feedback-left.b4113833.svg" alt="ImgNotFound" className={styles.imageContainer} />
                             <div class={styles.imgText}>
                                 <h5>Shahbaz Shaikh, Pune</h5>
-                                <p>Clapingo helped me a lot in improving my english speaking skills.</p>
+                                <p>EnglishN helped me a lot in improving my english speaking skills.</p>
                             </div>
                         </div>
                     </div>
@@ -23,7 +23,7 @@ export default function Section5() {
                             <img src="https://clapingo.com/_next/static/media/feedback-center.db4f675d.svg" alt="#ImgNotFound" className={styles.imageContainer} />
                             <div class={styles.imgText}>
                                 <h5>Ajanti, Ghaziabad</h5>
-                                <p>What a Unique and Realistic way of coaching and mentoring!!! It is a well-known fact in the universe that practice makes a man perfect and so is the mantra of Clapingo. Awesome speakers, patient, give ample tips and guide you throughout the sessions. Lifetime opportunity - worth to invest.</p>
+                                <p>What a Unique and Realistic way of coaching and mentoring!!! It is a well-known fact in the universe that practice makes a man perfect and so is the mantra of EnglishN. Awesome speakers, patient, give ample tips and guide you throughout the sessions. Lifetime opportunity - worth to invest.</p>
                             </div>
                         </div>
                     </div>
@@ -32,7 +32,7 @@ export default function Section5() {
                             <img src="https://clapingo.com/_next/static/media/feedback-right.dae40e86.svg" alt="#ImgNotFound" className={styles.imageContainer} />
                             <div class={styles.imgText}>
                                 <h5>kirti, Delhi</h5>
-                                <p>Clapingo not only helped me to improve my speaking skills but it also helped me to boost my confidence.</p>
+                                <p>EnglishN not only helped me to improve my speaking skills but it also helped me to boost my confidence.</p>
                             </div>
                         </div>
                     </div>

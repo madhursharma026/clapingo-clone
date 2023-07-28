@@ -8,9 +8,9 @@ export default function Footer() {
                 <div className="col-xl-3 my-3">
                     <Link className="navbar-brand" href="/">
                         <img src="https://clapingo.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.700994a7.png&w=48&q=75" alt="#ImgNotFound" />
-                        <span className={styles.websiteLogo}>Clapingo</span>
+                        <span className={styles.websiteLogo}>EnglishN</span>
                     </Link>
-                    <p className='text-white mt-3 px-xl-4' style={{ fontSize: '15px' }}>Clapingo is a unique platform where you practice conversations live with various speakers across the country. This is a judgment-free space where people can freely speak with a diverse set of people from different backgrounds.</p>
+                    <p className='text-white mt-3 px-xl-4' style={{ fontSize: '15px' }}>EnglishN is a unique platform where you practice conversations live with various speakers across the country. This is a judgment-free space where people can freely speak with a diverse set of people from different backgrounds.</p>
                     <p className='text-white mt-3 px-xl-4' style={{ fontSize: '15px' }}>
                         <i class="mx-2 fa fa-facebook-f"></i>
                         <i class="mx-2 fa fa-instagram"></i>
@@ -18,14 +18,14 @@ export default function Footer() {
                         <i class="mx-2 fa fa-twitter"></i>
                         <i class="mx-2 fa fa-pinterest"></i>
                     </p>
-                    <p className='text-white mt-3 px-xl-4' style={{ fontSize: '15px' }}>© 2022 Clapingo Education All rights reserved</p>
+                    <p className='text-white mt-3 px-xl-4' style={{ fontSize: '15px' }}>© 2022 EnglishN Education All rights reserved</p>
                 </div>
                 <div className="col-xl-3 my-3">
                     <h5 className="text-white px-xl-4">
                         Reach us
                     </h5>
                     <p className='text-white mt-3 px-xl-4' style={{ fontSize: '15px' }}>
-                        info@clapingo.com
+                        info@englishN.com
                         <br />
                         <br />
                         DLF Capital Greens,

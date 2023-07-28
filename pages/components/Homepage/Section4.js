@@ -11,7 +11,7 @@ export default function Section4() {
         <>
             <div className={`${styles.section4Container} py-5`} ref={myRef}>
                 <div className={styles.leftSideContainer}>
-                    <h1 className={styles.mainHeading}>Planning to <br /><span style={{ color: '#4A6EE0' }}>Subscribe</span> Clapingo?</h1>
+                    <h1 className={styles.mainHeading}>Planning to <br /><span style={{ color: '#4A6EE0' }}>Subscribe</span> EnglishN?</h1>
                     <ul className='mt-4'>
                         <li className={`my-3 ${styles.liStyle}`}>☑ Practice Speaking Skills</li>
                         <li className={`my-3 ${styles.liStyle}`}>☑ Recorded Sessions</li>

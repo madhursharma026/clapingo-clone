@@ -7,7 +7,7 @@ export default function Section3() {
                 <div className={`row`}>
                     <div className="col-lg-7">
                         <div className={styles.leftSideContainer}>
-                            <h1 className={styles.mainHeading}>Why <b>Clapingo</b> is your best option?</h1>
+                            <h1 className={styles.mainHeading}>Why <b>EnglishN</b> is your best option?</h1>
                             <ul className='mt-4'>
                                 <li className={`my-3 ${styles.liStyle}`}>☑ Practice Speaking Skills</li>
                                 <li className={`my-3 ${styles.liStyle}`}>☑ Recorded Sessions</li>
